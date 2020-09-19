@@ -1,2 +1,2 @@
-<h2><em> Hi, there ! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  </em> </h2>
+<h2> FullStack MERNing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </h2>
